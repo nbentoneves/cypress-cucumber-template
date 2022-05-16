@@ -1,0 +1,7 @@
+{
+  "extends": "./cypress.json",
+  "env": {
+    "type": "TEST",
+    "TAGS": "not @ignore"
+  }
+}

@@ -1,0 +1,1 @@
+Feature: {{featureName}} - Write here feature name and your test scenarios

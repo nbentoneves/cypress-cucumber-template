@@ -1,0 +1,8 @@
+{
+  "extends": "./cypress.json",
+  "defaultCommandTimeout": 20000,
+  "env": {
+    "type": "LOCAL",
+    "TAGS": "not @ignore"
+  }
+}
